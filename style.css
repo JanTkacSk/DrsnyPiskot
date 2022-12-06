@@ -1,0 +1,10 @@
+body {
+    background-image: url("Piskoty.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 900px;
+}
+h1 {
+    text-align: center;
+    font-size: 55px;
+}
